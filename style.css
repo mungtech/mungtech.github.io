@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap");
+* {
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+  background-image: url("img/cool-background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+span {
+  font-family: "Neonderthaw", cursive;
+  font-size: larger;
+}
+.header {
+  margin-top: 2rem;
+  text-decoration: underline;
+}
